@@ -1,0 +1,22 @@
+{
+  "name": "audio-component",
+  "repo": "",
+  "description": "",
+  "version": "0.0.1",
+  "author": "",
+  "keywords": [
+  ],
+  "dependencies": {},
+  "development": {
+    "web-audio-components/rack" : "*",
+    "jsantell/allen" : "*",
+    "component/event" : "*"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "web-audio": {
+    "type": "effect"
+  }
+}
