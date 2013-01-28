@@ -1,6 +1,6 @@
 # Web Audio Components Boilerplate
 
-A boilerplate example of a web audio component with GUI example using [Rack](https://github.com/web-audio-components/rack) and a test suite to roughly adhere to the [specification](https://github.com/web-audio-components/web-audio-component-spec)
+A boilerplate example of a web audio component with GUI example using [Rack](https://github.com/web-audio-components/rack) and a test suite to roughly adhere to the [specification](https://github.com/web-audio-components/web-audio-components-spec)
 
 ## Example
 
